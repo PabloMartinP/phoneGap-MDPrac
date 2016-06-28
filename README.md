@@ -1,0 +1,4 @@
+# phoneGap-MDPrac
+init
+
+
